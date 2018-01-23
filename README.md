@@ -4,4 +4,4 @@ The input and output settings can be changed to work with any similar devices.
 
 **In action**
 https://www.youtube.com/watch?v=C0IXREfDMOk
-[![Snake on Espruino](http://img.youtube.com/vi/C0IXREfDMOk/0.jpg)](http://www.youtube.com/watch?v=C0IXREfDMOk "Snake on Espruino")
+[![Snake on Espruino](https://i.imgur.com/UYJHuTG.gif)](http://www.youtube.com/watch?v=C0IXREfDMOk "Snake on Espruino")
